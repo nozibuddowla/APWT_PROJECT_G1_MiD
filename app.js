@@ -31,7 +31,6 @@ app.use('/login', login);
 app.use('/home', home);
 app.use('/logout', logout);
 app.use('/user', user);
-//app.use('/comment', comment);
 
 
 //router
